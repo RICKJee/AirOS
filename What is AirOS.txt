@@ -3,4 +3,5 @@ Is a OS... Sort of
 It is a application which acts as a bacic OS It Can Perform Simpel Tasks 
 Such as Add, Showing the correct date etc
 Its Just a fun Project
+So some functions might not work
 an it is written in C.
